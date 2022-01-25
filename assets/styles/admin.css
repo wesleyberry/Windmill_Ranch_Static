@@ -1,0 +1,13 @@
+label {
+    color: white;
+}
+input {
+    margin: 15px 0 15px 0;
+}
+table {
+    color: white !important;
+}
+form {
+    border: solid white 1px;
+    padding: 15px;
+}

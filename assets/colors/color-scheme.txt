@@ -1,0 +1,12 @@
+#9721FF - Main
+#BB6EFF - Light Purple
+#9721FF - Similar to Main
+#5E3780 - Dark Purple
+#791BCC - Darker than Main Purple
+
+#A9B300 - Dark Gold
+#F3FF21 - Yellow
+
+color: #4d004d;
+color: #960096;
+background-color: #f7f7f7;
